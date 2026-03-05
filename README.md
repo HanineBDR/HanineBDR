@@ -1,129 +1,183 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Hanine Boudour</h1>
-<h3 align="center">Software Engineer | Web Developer | AI & AR Enthusiast</h3>
+<!-- HEADER -->
+<h1 align="center">Hi 👋 I'm Hanine Boudour</h1>
+<h3 align="center">Software Engineer • Full Stack Developer • AI & AR Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%26+AR+Explorer;3D+Chatbot+Developer;Creative+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;AI+%26+AR+Explorer;3D+Chatbot+Developer;UI%2FUX+Designer+%26+3D+Creator;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HanineBDR&style=for-the-badge" />
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Software Engineering Student  
-- 🌍 Based in **Constantine, Algeria**
-- 🚀 Passionate about **Web Development, AI, and AR technologies**
-- 🤖 Built a **3D AR AI Chatbot**
-- 🎨 Experience with **UI/UX Design and 3D tools**
-- 💡 Always learning new technologies
+```diff
++ Software Engineering Student
++ Passionate about Web Development, AI and AR technologies
++ Built 3D + AR chatbot experiences
++ UI/UX Designer and 3D creator (Canva • Figma • Blender)
+```
 
----
+-   🌍 Based in **Constantine, Algeria**
+-   🔗 Portfolio: https://haninebd.github.io/portfolio/
+-   💼 LinkedIn: https://www.linkedin.com/in/hanine-boudour-9a7474397
+-   📫 Email: hanine.boudour@univ-constantine2.dz
 
-# 🚀 Tech Stack
+------------------------------------------------------------------------
+
+## 🚀 Tech Stack
 
 ### 💻 Programming & Development
 
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,mysql,git,github" />
+```
+`<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,mysql,git,github&perline=10" />`{=html}
+```{=html}
 </p>
+```
+### 🎨 Design & 3D Tools
 
----
-
-### 🎨 Design & Creative Tools
-
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,blender" />
+```
+`<img src="https://skillicons.dev/icons?i=figma,blender&perline=10" />`{=html}
+`<img src="https://cdn.simpleicons.org/canva/00C2FF" height="48" alt="Canva"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-### 🧠 Technologies & Skills
+## 📊 GitHub Stats
 
-- Full Stack Development
-- AI Applications
-- 3D & AR Experiences
-- UI/UX Design
-- REST APIs
-- Web Applications
-
----
-
-# 🌟 Featured Projects
-
-### 🏫 University Management System
-Web-based system with **student, teacher, and admin dashboards** built with:
-
-- HTML
-- CSS
-- JavaScript
-- Spring Boot
-- MySQL
-
----
-
-### 🛍 Velvet Fashion House
-Modern **online fashion store** with product browsing and clean UI.
-
----
-
-### 🤖 Nebula Text Analyzer
-Tool for analyzing and processing text built with **TypeScript**.
-
----
-
-### 🧠 3D AR AI Chatbot
-Interactive **AI chatbot integrated with 3D and AR technologies**.
-
----
-
-# 📊 GitHub Stats
-
+```{=html}
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HanineBDR&show_icons=true&theme=tokyonight" />
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=HanineBDR&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HanineBDR&theme=tokyonight" />
+```
+`<img src="https://streak-stats.demolab.com?user=HanineBDR&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanineBDR&layout=compact&theme=tokyonight" />
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanineBDR&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
+```{=html}
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&row=1&column=7"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 🌐 Connect With Me
+## 📈 Activity Graph
 
+```{=html}
 <p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://haninebd.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox"/>
-</a>
-
-<a href="mailto:hanine.boudour@univ-constantine2.dz">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=HanineBDR&theme=tokyo-night&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
-# 💡 Quote
+## 🐍 Contribution Snake Animation
 
-> "Code is not just about solving problems — it's about creating possibilities."
+```{=html}
+<p align="center">
+```
+`<img src="https://raw.githubusercontent.com/HanineBDR/HanineBDR/output/github-contribution-grid-snake.svg"/>`{=html}
+```{=html}
+</p>
+```
 
----
+------------------------------------------------------------------------
+
+## 🌐 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://www.linkedin.com/in/hanine-boudour-9a7474397">`{=html}
+`<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>`{=html}
+`</a>`{=html}
+
+`<a href="https://haninebd.github.io/portfolio/">`{=html}
+`<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefoxbrowser"/>`{=html}
+`</a>`{=html}
+
+`<a href="mailto:hanine.boudour@univ-constantine2.dz">`{=html}
+`<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>`{=html}
+`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 💡 Quote
+
+> "Technology is best when it brings creativity and innovation
+> together."
 
 ⭐ From **Hanine Boudour**
+
+
+    ---
+
+    # 2️⃣ Snake Animation Workflow
+
+    Create the file:
+
+    `.github/workflows/snake.yml`
+
+    ```yaml
+    name: Generate Snake
+
+    on:
+      schedule:
+        - cron: "0 0 * * *"
+      workflow_dispatch:
+
+    permissions:
+      contents: write
+
+    jobs:
+      build:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Generate snake SVG
+            uses: Platane/snk/svg-only@v3
+            with:
+              github_user_name: HanineBDR
+              outputs: |
+                dist/github-contribution-grid-snake.svg
+
+          - name: Push snake to output branch
+            uses: crazy-max/ghaction-github-pages@v4
+            with:
+              target_branch: output
+              build_dir: dist
+            env:
+              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
