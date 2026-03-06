@@ -19,7 +19,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
 - 🎓 Software Engineering Student  
 - 🌍 Based in **Constantine, Algeria**
