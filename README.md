@@ -30,13 +30,19 @@
 ### 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,python,mysql,git,github" />
 </p>
 
 ### 🎨 Design & Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,canva" />
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,xd" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spline-6C63FF?style=for-the-badge&logo=spline&logoColor=white" />
 </p>
 
 ---
