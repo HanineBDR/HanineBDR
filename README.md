@@ -36,8 +36,7 @@
 ### 🎨 Design & Creative Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
-  <img src="https://cdn.simpleicons.org/canva/00C2FF" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps,canva" />
 </p>
 
 ---
@@ -56,11 +55,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanineBDR&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HanineBDR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HanineBDR&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HanineBDR&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -72,7 +71,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
