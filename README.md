@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanineBDR&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=HanineBDR&cc=0d1117&tc=6C63FF&ic=fff&bc=0d1117" />
 </p>
 
 <p align="center">
@@ -77,7 +77,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&margin-w=4" />
 </p>
 
 ---
