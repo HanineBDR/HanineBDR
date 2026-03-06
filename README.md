@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanineBDR&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanineBDR&theme=tokyonight" />
 </p>
 
 ---
