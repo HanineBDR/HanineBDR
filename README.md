@@ -10,6 +10,11 @@
   <img src="https://komarev.com/ghpvc/?username=HanineBDR&style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
+</p>
+
 <br/>
 
 ---
@@ -22,6 +27,7 @@
 - 🤖 Built a **3D AR AI Chatbot**
 - 🎨 Experience with **UI/UX Design and 3D tools**
 - 💡 Always learning new technologies
+- 🐱 Cat lover & Linux enthusiast
 
 ---
 
@@ -30,7 +36,7 @@
 ### 💻 Programming & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,python,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,python,mysql,git,github,linux" />
 </p>
 
 ### 🎨 Design & Creative Tools
@@ -120,4 +126,8 @@
 
 ---
 
-⭐ From **Hanine Boudour**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30" />
+  ⭐ From <strong>Hanine Boudour</strong>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30" />
+</p>
