@@ -1,106 +1,91 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Hanine Boudour</h1>
-<h3 align="center">Software Engineer | Web Developer | AI & AR Enthusiast</h3>
+# Hi, I'm Hanine Boudour 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;AI+%26+AR+Explorer;3D+Chatbot+Developer;Creative+Problem+Solver" />
-</p>
+### Software Engineering Graduate | Full-Stack Developer | AI Enthusiast
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HanineBDR&style=for-the-badge" />
-</p>
+I'm a **Computer Science graduate specialized in Software Engineering**, with a strong interest in **Artificial Intelligence, software development, and modern web technologies**.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Paw%20Prints.png" width="60" />
-</p>
-
-<br/>
+I enjoy learning new technologies, developing practical solutions, and continuously improving my technical skills.
 
 ---
 
-## 👩💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 Software Engineering Student  
-- 🌍 Based in **Constantine, Algeria**
-- 🚀 Passionate about **Web Development, AI, and AR technologies**
-- 🤖 Built a **3D AR AI Chatbot**
-- 🎨 Experience with **UI/UX Design and 3D tools**
-- 💡 Always learning new technologies
-- 🐱 Cat lover & Linux enthusiast
+* 🎓 **Computer Science Graduate — Software Engineering**
+* 💻 Strong foundation in **Software Engineering and Computer Science**
+* 🌐 Interested in **Web Development and Full-Stack Development**
+* 🤖 Passionate about **Artificial Intelligence and Machine Learning**
+* 🗄️ Knowledge of **Database Systems and API Development**
+* 🧩 Familiar with **Software Design, OOP, Algorithms, and Data Structures**
+* 📚 Always learning and exploring new technologies
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming & Development
+### Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,java,spring,python,mysql,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,cpp,c" />
 </p>
 
-### 🎨 Design & Creative Tools
+### Web & Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender,ps,ae,xd" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,spring,js" />
 </p>
 
+### Databases & Development Tools
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spline-6C63FF?style=for-the-badge&logo=spline&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,vscode" />
+</p>
+
+### Design & Creative Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,blender,ps" />
 </p>
 
 ---
 
-## 🧠 Technologies & Skills
+## 🧠 Areas of Interest
 
-- Full Stack Development
-- AI Applications
-- 3D & AR Experiences
-- UI/UX Design
-- REST APIs
-- Web Applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=HanineBDR&cc=0d1117&tc=6C63FF&ic=fff&bc=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HanineBDR&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanineBDR&theme=tokyonight" />
-</p>
+* Artificial Intelligence & Machine Learning
+* Software Engineering
+* Full-Stack Web Development
+* Backend Development
+* Database Systems
+* REST APIs
+* Object-Oriented Programming
+* Algorithms & Data Structures
+* UI/UX Design
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Academic Background
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=HanineBDR&theme=tokyonight&no-frame=true&margin-w=4" />
-</p>
+**Bachelor's Degree in Computer Science — Software Engineering**
+
+My academic background has provided me with a strong foundation in:
+
+* Software Engineering
+* Object-Oriented Programming
+* Algorithms & Data Structures
+* Database Management
+* Operating Systems
+* Computer Networks
+* Web Development
+* Computer Architecture
+* Information Systems
+* Software Design & UML
 
 ---
 
-## 📈 Activity Graph
+## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HanineBDR&theme=tokyo-night" />
-</p>
+I'm continuously developing my skills in:
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+**Artificial Intelligence · Machine Learning · Full-Stack Development · Backend Engineering**
 
 ---
 
@@ -113,21 +98,10 @@
   <a href="https://haninebd.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefoxbrowser" />
   </a>
-  <a href="mailto:hanine.boudour@univ-constantine2.dz">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
 </p>
 
 ---
 
-## 💡 Quote
-
-> "Code is not just about solving problems — it's about creating possibilities."
-
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30" />
-  ⭐ From <strong>Hanine Boudour</strong>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="30" />
+  <i>Learning, building, and growing through technology.</i>
 </p>
